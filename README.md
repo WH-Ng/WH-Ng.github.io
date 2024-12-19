@@ -2,3 +2,6 @@
 ## Table of Content
 ## About
 ## Projects
+### Predicting Burnt Area of Forest Fire
+### Wine Classification
+### Modelling Student Resilience
